@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hazards
+  - NPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Wall
+  - Hazards
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Main Background
+    uniqueID: 725993489
+    locked: 0
+  - name: Background
+    uniqueID: 3694209997
+    locked: 0
+  - name: Foreground
+    uniqueID: 464870589
+    locked: 0
+  - name: NPC
+    uniqueID: 3046992655
+    locked: 0
+  - name: Player
+    uniqueID: 3170373043
+    locked: 0
